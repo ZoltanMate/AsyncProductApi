@@ -366,3 +366,6 @@ FodyWeavers.xsd
 *.db
 *.db-shm
 *.db-wal
+/src/AsyncProductApi/RequestDb.db
+/src/AsyncProductApi/RequestDb.db-shm
+/src/AsyncProductApi/RequestDb.db-wal
